@@ -1,7 +1,7 @@
 # WebApps
 # Learn HTML & CSS
 ## The basics
-- [ ] Introduction to HTML
+- [X] Introduction to HTML
 - [ ] Building a Simple Web Page
 - [ ] Anatomy of a CSS Style 101
 - [ ] Where Will Your Styles Live?
