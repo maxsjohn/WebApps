@@ -2,13 +2,13 @@
 # Learn HTML & CSS
 ## The basics
 - [X] Introduction to HTML
-- [ ] Building a Simple Web Page
-- [ ] Anatomy of a CSS Style 101
-- [ ] Where Will Your Styles Live?
-- [ ] CSS Selectors: Type, Class, and ID
-- [ ] CSS Attribute Selectors
-- [ ] All About nth-of-type and nth-child Selector
-- [ ] All About File Paths
+- [X] Building a Simple Web Page
+- [X] Anatomy of a CSS Style 101
+- [X] Where Will Your Styles Live?
+- [X] CSS Selectors: Type, Class, and ID
+- [X] CSS Attribute Selectors
+- [X] All About nth-of-type and nth-child Selector
+- [X] All About File Paths
 - [ ] Using Firebug to Easily Inspect (and Diagnose!) CSS
 
 ## CSS Tricks & Techniques
